@@ -45,7 +45,7 @@ src/
 
 ⚙️ Setup Instructions
 1. Clone Repository
-git clone https://github.com/your-username/real-estate-app.git
+git clone https://github.com/AsadAhmadDev/real-estate-app.git
 cd real-estate-app
 
 2. Install Dependencies
